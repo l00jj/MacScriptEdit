@@ -1,4 +1,6 @@
 # MacScriptEdit
+[api](https://developer.apple.com/library/archive/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html)  
+
 
 # js如何检查UI子组件
 https://stackoverflow.com/questions/33232154/javascript-automation-click-download-button-in-itunes/33274695#33274695
@@ -32,3 +34,7 @@ myPath = Path('/usr')
 Application('Finder').folders.byName(myPath.toString()).items.name()
 // Error -1728: Can't get object.
 ```
+
+# js 如何获取指定属性
+https://mikebian.co/scripting-macos-with-javascript-automation/
+
