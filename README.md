@@ -1,5 +1,10 @@
 # MacScriptEdit
-[api](https://developer.apple.com/library/archive/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html)  
+
+# 重要资料
+[官方API](https://developer.apple.com/library/archive/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html)  
+
+解决大部分疑难问题 [JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook)  
+
 
 
 # js如何检查UI子组件
