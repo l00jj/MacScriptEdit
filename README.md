@@ -5,7 +5,7 @@
 
 解决大部分疑难问题 [JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook)  
 
-
+[一些例子](https://gist.github.com/heckj/5b7bb332463a762639e179a37ea3a216)  
 
 # js如何检查UI子组件
 https://stackoverflow.com/questions/33232154/javascript-automation-click-download-button-in-itunes/33274695#33274695
